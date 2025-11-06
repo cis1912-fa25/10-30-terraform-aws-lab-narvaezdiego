@@ -4,4 +4,4 @@ terraform/terraform.tfstate.backup
 .venv/*
 __pycache__/*
 
-uv.lock
+uv.lockterraform/.terraform/
